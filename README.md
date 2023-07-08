@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonseen
 - 👀 I’m a Product Designer and Frontend Engineer
-- 🌱 I’m currently studying Professional Software Engineeing with ALX Afica
+- 🌱 I’m currently studying Professional Software Engineeing with ALX Africa
 - 💞️ I’m looking to collaborate on Dev and Mobile app Projects
 - 📫 How to reach me: onajijohnson1@gmail.com
 
